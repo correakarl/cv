@@ -12,6 +12,7 @@ import { FooterComponent } from 'src/components/layouts/footer/footer.component'
 import { MatCardModule} from "@angular/material/card"
 import { MatButtonModule } from "@angular/material/button"
 import { MatIconModule } from '@angular/material/icon'
+import { CorreoModule } from 'src/correo/correo.module';
 @NgModule({
   declarations: [
     AppComponent,
